@@ -7,13 +7,10 @@ RADAR SYSTEM
 
 
 
-
-
-https://github.com/Alchemy013/Radar/assets/92947939/d69953c5-19e7-48ed-8ac3-8312803e59f3
-
-
 Downloads
+
+Processing:
 https://processing.org/download/
 
-
+Arduino:
 https://www.arduino.cc/en/software
